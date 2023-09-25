@@ -1,0 +1,47 @@
+.allbody
+{
+    background-color:white;
+    height: auto;
+    border: 2px blue solid;
+}
+
+.menufirst
+{
+    height: 100px;
+    display: flex;
+    background-color: white;
+}
+
+.img1
+{
+    align-items: center;
+}
+.imglogo
+{
+    width:100%;
+    height:80px;
+
+}
+.carousel-item img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+  }
+.styleanh
+{
+    border: 2px rgb(255, 0, 0) solid;
+}
+
+.edit_p:hover {
+    color: red;
+    background-color: rgb(103, 254, 2);
+}
+
+.styleusernam
+{
+    height:30px;
+    border-radius: 5px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
